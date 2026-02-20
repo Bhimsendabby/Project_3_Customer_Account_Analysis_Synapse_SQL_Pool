@@ -1,4 +1,4 @@
-# Sales & Banking Data Analysis Pipeline (Azure Databricks)
+# Customer Account Analysis & Data Warehousing (Azure Synapse)
 
 ## 📌 Project Overview
 This project demonstrates an end-to-end Data Warehousing solution built on Azure Synapse Analytics. The goal is to provide a financial institution with a scalable architecture to consolidate customer transaction data, perform complex transformations, and deliver actionable insights through Power BI.
